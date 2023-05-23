@@ -21,7 +21,7 @@ relevance login
 relevance deploy
 ```
 
-Add your Relevance region and project to the `demo-config.ts` file so the frontend client can use the chains"
+Add your Relevance region and project to the `demo-config.ts` file to power the frontend chain client.
 
 ```
 export const REGION = '';
