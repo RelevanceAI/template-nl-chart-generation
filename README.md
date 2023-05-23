@@ -19,6 +19,8 @@ relevance login
 relevance deploy
 ```
 
+Add your Relevance region and project to the `demo-config.ts` file so the frontend client can use the chains
+
 Finally, set up an SQL database (I used a [Planetscale database for free](https://planetscale.com/)) and add a `.env` file with:
 
 ```
