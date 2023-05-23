@@ -1,6 +1,6 @@
 # Agent that dashboards like an analyst - Relevance AI
 
-Read our [guide](https://documentation.relevanceai.com/guides/charting-agent) to learn more.
+Read about [how this works](https://documentation.relevanceai.com/guides/charting-agent) to learn more.
 
 ## Setup
 
