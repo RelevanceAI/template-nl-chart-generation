@@ -13,13 +13,13 @@
     },
     "devDependencies": {
         "@types/node": "^18",
-        "nuxt": "^3.5.0",
+        "nuxt": "^3.21.2",
         "prisma": "^4.14.0"
     },
     "dependencies": {
         "@faker-js/faker": "^8.0.1",
         "@formkit/auto-animate": "^1.0.0-beta.6",
-        "@nuxtjs/tailwindcss": "^6.7.0",
+        "@nuxtjs/tailwindcss": "^6.14.0",
         "@planetscale/database": "^1.7.0",
         "@prisma/client": "^4.14.0",
         "@relevanceai/chain": "^0.0.14",
